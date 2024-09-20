@@ -1,0 +1,6 @@
+@RestProjectRouTeam.API_HostAddress = http://localhost:5267
+
+GET {{RestProjectRouTeam.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

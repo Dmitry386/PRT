@@ -1,0 +1,48 @@
+﻿@* @page
+    @model IndexModel
+    @{
+        ViewData["Title"] = "Home page";
+    }
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+*@
+
+
+@page
+@using RestProjectRouTeam.FrontEnd.PageModels
+@model SearchModel
+@{
+    ViewData["Title"] = "Поиск репозиториев";
+}
+
+<h1>Поиск репозиториев</h1>
+
+<form method="post">
+    <div class="form-group">
+        <input type="text" name="query" class="form-control" placeholder="Введите текст для поиска" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Поиск</button>
+</form>
+
+@if (Model.Repositories != null && Model.Repositories.Count > 0)
+{
+    <h2>Результаты поиска:</h2>
+    <div class="row">
+        @foreach (var repo in Model.Repositories)
+        {
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@repo.Name</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@repo.Author</h6>
+                        <p class="card-text">Stars: @repo.StargazersCount, Watchers: @repo.WatchersCount</p>
+                        <a href="@repo.HtmlUrl" class="card-link" target="_blank">Перейти на GitHub</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}

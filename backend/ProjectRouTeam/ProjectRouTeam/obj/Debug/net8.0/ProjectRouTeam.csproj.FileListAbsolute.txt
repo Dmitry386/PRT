@@ -1,0 +1,14 @@
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\bin\Debug\net8.0\ProjectRouTeam.deps.json
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\bin\Debug\net8.0\ProjectRouTeam.runtimeconfig.json
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\bin\Debug\net8.0\ProjectRouTeam.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\bin\Debug\net8.0\ProjectRouTeam.pdb
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.csproj.AssemblyReference.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.AssemblyInfoInputs.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.AssemblyInfo.cs
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.csproj.CoreCompileInputs.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\refint\ProjectRouTeam.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.pdb
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ProjectRouTeam.genruntimeconfig.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\ProjectRouTeam\obj\Debug\net8.0\ref\ProjectRouTeam.dll

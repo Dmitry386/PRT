@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FOJy3JrjDxk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Volkov\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
