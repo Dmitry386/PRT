@@ -1,8 +1,11 @@
 using Microsoft.EntityFrameworkCore;
+using RestProjectRouTeam.API.Extensions;
+using RestProjectRouTeam.API.Helpers;
 using RestProjectRouTeam.Application.Services;
 using RestProjectRouTeam.Core.Abstractions;
 using RestProjectRouTeam.DataAccess.Contexts;
 using RestProjectRouTeam.DataAccess.Repositories;
+using RestProjectRouTeam.Infrastructure;
 
 namespace RestProjectRouTeam.API
 {
@@ -12,12 +15,22 @@ namespace RestProjectRouTeam.API
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection(nameof(JwtOptions)));
 
+            builder.Services.AddEndpointsApiExplorer();
+
+            builder.Services.AddControllers();
+            builder.Services.AddSwaggerGen();
+             
             builder.Services.AddScoped<IGitHubProjectPageRepository, GitHubPageRepository>();
             builder.Services.AddScoped<IGitHubService, GitHubService>();
+
+            builder.Services.AddScoped<IPasswordHasher, PasswordHasher>();
+            builder.Services.AddScoped<IJwtProvider, JwtProvider>();
+            builder.Services.AddScoped<IUsersRepository, UsersRepository>();
+
+            builder.Services.AddScoped<UsersService>();
+            builder.Services.AddApiAuthentification(builder.Configuration);
 
             builder.Services.AddDbContext<MainDbContext>(
             options =>
@@ -36,7 +49,11 @@ namespace RestProjectRouTeam.API
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
+            app.UseRouting();
             app.UseAuthorization();
+
+            app.AddMappedEndpoints();
 
             app.MapControllers();
 

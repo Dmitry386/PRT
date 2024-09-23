@@ -32,3 +32,5 @@ C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Appli
 C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Application\obj\Debug\net8.0\RestProjectRouTeam.Application.pdb
 C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Application\obj\Debug\net8.0\RestProjectRouTeam.Application.genruntimeconfig.cache
 C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Application\obj\Debug\net8.0\ref\RestProjectRouTeam.Application.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Application\bin\Debug\net8.0\RestProjectRouTeam.Infrastructure.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Application\bin\Debug\net8.0\RestProjectRouTeam.Infrastructure.pdb

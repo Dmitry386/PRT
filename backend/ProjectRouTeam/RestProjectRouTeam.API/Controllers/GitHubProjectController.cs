@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RestProjectRouTeam.Core.Abstractions;
 using RestProjectRouTeam.Core.Models;
 
@@ -17,6 +18,7 @@ namespace RestProjectRouTeam.API.Controllers
 
         [Route("find")]
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<List<GitHubSubject>>> Find(string subject)
         {
             var response = await _service.Search(subject);
@@ -24,6 +26,7 @@ namespace RestProjectRouTeam.API.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<List<GitHubSubject>>> Get()
         {
             var response = await _service.Get();
@@ -31,6 +34,7 @@ namespace RestProjectRouTeam.API.Controllers
         }
 
         [HttpGet("{id:int}")]
+        [Authorize]
         public async Task<ActionResult<List<GitHubSubject>>> Get(int id)
         {
             var entity = await _service.Get(id);
@@ -38,6 +42,7 @@ namespace RestProjectRouTeam.API.Controllers
         }
         
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<int>> Create([FromBody] GitHubSubject entity)
         {
             var requestId = await _service.Create(entity);
@@ -45,6 +50,7 @@ namespace RestProjectRouTeam.API.Controllers
         }
 
         [HttpPut]
+        [Authorize]
         public async Task<ActionResult<int>> Update([FromBody] GitHubSubject entity)
         {
             var requestId = await _service.Update(entity);
@@ -52,6 +58,7 @@ namespace RestProjectRouTeam.API.Controllers
         }
 
         [HttpDelete("{id:int}")]
+        [Authorize]
         public async Task<ActionResult<int>> Delete(int id)
         {
             var requestId = await _service.Delete(id);

@@ -6,6 +6,7 @@ namespace RestProjectRouTeam.DataAccess.Contexts
     public class MainDbContext : DbContext
     {
         public DbSet<GitHubSubject> ProjectPage { get; set; }
+        public DbSet<User> Users { get; set; }
 
         public MainDbContext(DbContextOptions<MainDbContext> options)
             : base(options)

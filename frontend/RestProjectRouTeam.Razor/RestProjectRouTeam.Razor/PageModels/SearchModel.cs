@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc.RazorPages;
 using Newtonsoft.Json;
-using RestProjectRouTeam.Razor.Contracts;
+using RestProjectRouTeam.Razor.Helpers;
+using System.Net;
 
 namespace RestProjectRouTeam.FrontEnd.PageModels
 {
@@ -8,46 +9,49 @@ namespace RestProjectRouTeam.FrontEnd.PageModels
     {
         public List<dynamic> Repositories = new();
 
-        public SearchModel()
-        {
+        private readonly IConfiguration _configuration;
 
+        private string AuthCookieName => ApiHelper.GetApiCookieName(_configuration);
+        
+        public SearchModel(IConfiguration configuration)
+        {
+            _configuration = configuration;
         }
 
         public async Task OnPostAsync()
         {
-            //dynamic hz = new System.Dynamic.ExpandoObject();
-            //hz.Name = "name";
-            //hz.Author = "test";
-            //hz.HtmlUrl = "url";
-            //hz.StargazersCount = 1;
-            //hz.WatchersCount = 2;
-            //Repositories.Add(hz);
-            //Repositories.Add(hz);
-            //Repositories.Add(hz);
-            //Repositories.Add(hz);
-            string request = Request.Form["query"];
-            var res = await FetchAsync(SharedClient, $"https://localhost:7298/api/find?subject={request}");
-            Repositories.Clear();
-
-            foreach (var item in res)
+            try
             {
-                string json = item.json;
-                var obj = JsonConvert.DeserializeObject(json);
-                Repositories.Add(obj);
+                string request = Request.Form["query"];
+                var res = await ApiHelper.FetchAsync(GetHttpClient(), $"https://localhost:7298/api/find?subject={request}");
+                Repositories.Clear();
+
+                foreach (var item in res)
+                {
+                    string json = item.json;
+                    var obj = JsonConvert.DeserializeObject(json);
+                    Repositories.Add(obj);
+                }
+            }
+            catch
+            {
+                Response.Redirect("/Login");
             }
         }
 
-        private static async Task<dynamic> FetchAsync(HttpClient httpClient, string request)
+        public HttpClient GetHttpClient()
         {
-            var response = await httpClient.GetStringAsync(request);
-            dynamic result = JsonConvert.DeserializeObject(response);
+            var url = _configuration.GetSection("ApiUrl").Value + "/";
+            Uri target = new Uri(url);
 
-            return result;
+            var httpClientHandler = new HttpClientHandler();
+            var  cookies = new CookieContainer();
+
+            string c1 = Request.Cookies[AuthCookieName];
+            cookies.Add(new Cookie(AuthCookieName, c1) { Domain = target.Host });
+            httpClientHandler.CookieContainer = cookies;
+
+            return new HttpClient(httpClientHandler);
         }
-
-        private static HttpClient SharedClient = new()
-        {
-
-        };
     }
 }

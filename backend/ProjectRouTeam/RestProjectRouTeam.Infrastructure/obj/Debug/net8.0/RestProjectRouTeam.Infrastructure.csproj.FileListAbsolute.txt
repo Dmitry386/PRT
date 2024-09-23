@@ -1,0 +1,15 @@
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\bin\Debug\net8.0\RestProjectRouTeam.Infrastructure.deps.json
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\bin\Debug\net8.0\RestProjectRouTeam.Infrastructure.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\bin\Debug\net8.0\RestProjectRouTeam.Infrastructure.pdb
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\bin\Debug\net8.0\RestProjectRouTeam.Core.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\bin\Debug\net8.0\RestProjectRouTeam.Core.pdb
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.AssemblyInfo.cs
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProj.AAEE9B77.Up2Date
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\refint\RestProjectRouTeam.Infrastructure.dll
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\RestProjectRouTeam.Infrastructure.pdb
+C:\Users\Volkov\source\repos\PRT\backend\ProjectRouTeam\RestProjectRouTeam.Infrastructure\obj\Debug\net8.0\ref\RestProjectRouTeam.Infrastructure.dll

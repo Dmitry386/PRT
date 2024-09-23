@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestProjectRouTeam.Core", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestProjectRouTeam.DataAccess", "RestProjectRouTeam.DataAccess\RestProjectRouTeam.DataAccess.csproj", "{908A03CC-9DAF-49D4-8389-597A8AD7E63F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestProjectRouTeam.Infrastructure", "RestProjectRouTeam.Infrastructure\RestProjectRouTeam.Infrastructure.csproj", "{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{908A03CC-9DAF-49D4-8389-597A8AD7E63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908A03CC-9DAF-49D4-8389-597A8AD7E63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908A03CC-9DAF-49D4-8389-597A8AD7E63F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
