@@ -28,8 +28,7 @@ namespace RestProjectRouTeam.Razor.Helpers
                 return responseBody;
             }
             catch (Exception e)
-            {
-                Console.WriteLine("Ошибка при отправке запроса: " + e.Message);
+            { 
                 return $"Post error: {e.Message}";
             }
         } 

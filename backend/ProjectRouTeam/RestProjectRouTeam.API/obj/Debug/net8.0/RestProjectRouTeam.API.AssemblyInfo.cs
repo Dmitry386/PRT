@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestProjectRouTeam.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dd139cb22b61daca62379e476bf9aa77ce6d916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eba960f417069f3741f1aa37edeb6e15f0a0869")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestProjectRouTeam.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestProjectRouTeam.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

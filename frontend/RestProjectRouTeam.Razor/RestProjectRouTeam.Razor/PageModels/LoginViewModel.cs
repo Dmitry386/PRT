@@ -71,7 +71,10 @@ namespace RestProjectRouTeam.Razor.PageModels
             string token = login_response;
             HttpContext.Response.Cookies.Append(AuthCookieName, token);
 
+            //if (await IsAuthorized() == false)
+            //{
             Response.Redirect("/Login");
+            //}
         }
     }
 }

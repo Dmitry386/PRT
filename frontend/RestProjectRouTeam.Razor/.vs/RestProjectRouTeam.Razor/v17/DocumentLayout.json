@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pagemodels\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pagemodels\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pagemodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pagemodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pagemodels\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pagemodels\\searchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pagemodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pagemodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|solutionrelative:restprojectrouteam.razor\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDCD6686-2C41-40AF-A5A5-99F67D73314F}|RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor.csproj|c:\\users\\volkov\\source\\repos\\prt\\frontend\\restprojectrouteam.razor\\restprojectrouteam.razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,17 +77,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\PageModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\PageModels\\LoginViewModel.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\PageModels\\LoginViewModel.cs",
               "RelativeToolTip": "RestProjectRouTeam.Razor\\PageModels\\LoginViewModel.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAArAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T12:53:01.945Z",
               "IsPinned": true,
@@ -95,13 +95,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\Pages\\Login.cshtml",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Pages\\Login.cshtml",
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T12:54:06.786Z",
               "IsPinned": true,
@@ -109,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\Pages\\Login.cshtml.cs",
@@ -123,20 +123,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ApiHelper.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Helpers\\ApiHelper.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\Helpers\\ApiHelper.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Helpers\\ApiHelper.cs",
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Helpers\\ApiHelper.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACcAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:34:01.756Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\appsettings.json",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\appsettings.json",
@@ -155,14 +155,14 @@
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\PageModels\\SearchModel.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\PageModels\\SearchModel.cs",
               "RelativeToolTip": "RestProjectRouTeam.Razor\\PageModels\\SearchModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:52:02.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\frontend\\RestProjectRouTeam.Razor\\RestProjectRouTeam.Razor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Razor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -170,8 +170,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T14:35:13.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T14:35:13.778Z"
             },
             {
               "$type": "Document",
@@ -183,8 +182,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:53:06.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T13:53:06.421Z"
             },
             {
               "$type": "Document",
@@ -196,8 +194,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Privacy.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T13:05:29.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T13:05:29.787Z"
             },
             {
               "$type": "Document",
@@ -209,8 +206,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Index.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:59:56.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:59:56.192Z"
             },
             {
               "$type": "Document",
@@ -222,8 +218,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:55:02.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:55:02.486Z"
             },
             {
               "$type": "Document",
@@ -235,8 +230,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:55:01.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:55:01.774Z"
             },
             {
               "$type": "Document",
@@ -248,8 +242,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:54:59.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:54:59.945Z"
             },
             {
               "$type": "Document",
@@ -261,8 +254,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:44:23.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:44:23.832Z"
             },
             {
               "$type": "Document",
@@ -274,8 +266,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Contracts\\GitHubPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:40:31.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T12:40:31.315Z"
             },
             {
               "$type": "Document",
@@ -287,8 +278,7 @@
               "RelativeToolTip": "..\\..\\backend\\ProjectRouTeam\\RestProjectRouTeam.Core\\Models\\GitHubPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:32:00.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T08:32:00.777Z"
             },
             {
               "$type": "Document",
@@ -300,8 +290,7 @@
               "RelativeToolTip": "RestProjectRouTeam.Razor\\Pages\\Index.cshtml",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-20T07:17:45.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T07:17:45.662Z"
             }
           ]
         }

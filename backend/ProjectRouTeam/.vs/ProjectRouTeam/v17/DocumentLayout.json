@@ -3,44 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\controllers\\githubprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\controllers\\githubprojectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|solutionrelative:restprojectrouteam.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|solutionrelative:restprojectrouteam.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\helpers\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|solutionrelative:restprojectrouteam.infrastructure\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\endpoints\\usersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|solutionrelative:restprojectrouteam.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|solutionrelative:restprojectrouteam.infrastructure\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|solutionrelative:restprojectrouteam.infrastructure\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.infrastructure\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|solutionrelative:restprojectrouteam.infrastructure\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.infrastructure\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9CB4F7-0DE2-41C3-BCC3-2CD721F50AA2}|RestProjectRouTeam.Infrastructure\\RestProjectRouTeam.Infrastructure.csproj|solutionrelative:restprojectrouteam.infrastructure\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B213F9DE-BC65-453B-B39D-3A9F96BCFAF0}|RestProjectRouTeam.Application\\RestProjectRouTeam.Application.csproj|solutionrelative:restprojectrouteam.application\\services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\extensions\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\contracts\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6EB1279-4B8E-41DB-B865-71B812695721}|RestProjectRouTeam.Core\\RestProjectRouTeam.Core.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.core\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6EB1279-4B8E-41DB-B865-71B812695721}|RestProjectRouTeam.Core\\RestProjectRouTeam.Core.csproj|solutionrelative:restprojectrouteam.core\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.api\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F412EC01-0F4A-4713-A604-1F9625BDB140}|RestProjectRouTeam.API\\RestProjectRouTeam.API.csproj|solutionrelative:restprojectrouteam.api\\contracts\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B6EB1279-4B8E-41DB-B865-71B812695721}|RestProjectRouTeam.Core\\RestProjectRouTeam.Core.csproj|c:\\users\\volkov\\source\\repos\\prt\\backend\\projectrouteam\\restprojectrouteam.core\\models\\githubpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,17 +94,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UsersEndpoints.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Endpoints\\UsersEndpoints.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Endpoints\\UsersEndpoints.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Endpoints\\UsersEndpoints.cs",
               "RelativeToolTip": "RestProjectRouTeam.API\\Endpoints\\UsersEndpoints.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T12:22:35.304Z",
               "IsPinned": true,
@@ -88,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UsersService.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Application\\Services\\UsersService.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Application\\Services\\UsersService.cs",
@@ -103,6 +127,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.Infrastructure\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\PasswordHasher.cs",
+              "RelativeToolTip": "RestProjectRouTeam.Infrastructure\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:57:17.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.Infrastructure\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\JwtProvider.cs",
+              "RelativeToolTip": "RestProjectRouTeam.Infrastructure\\JwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:57:16.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.Infrastructure\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\JwtOptions.cs",
+              "RelativeToolTip": "RestProjectRouTeam.Infrastructure\\JwtOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:57:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.Infrastructure\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\IPasswordHasher.cs",
+              "RelativeToolTip": "RestProjectRouTeam.Infrastructure\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:57:15.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.Infrastructure\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Infrastructure\\IJwtProvider.cs",
+              "RelativeToolTip": "RestProjectRouTeam.Infrastructure\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:57:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Helpers\\ApiHelper.cs",
+              "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Helpers\\ApiHelper.cs",
+              "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Helpers\\ApiHelper.cs",
+              "RelativeToolTip": "RestProjectRouTeam.API\\Helpers\\ApiHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:56:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Program.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Program.cs",
@@ -115,46 +217,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ApiExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Extensions\\ApiExtensions.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Extensions\\ApiExtensions.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Extensions\\ApiExtensions.cs",
               "RelativeToolTip": "RestProjectRouTeam.API\\Extensions\\ApiExtensions.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAhwCIAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T15:42:12.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\appsettings.json",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\appsettings.json",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\appsettings.json",
               "RelativeToolTip": "RestProjectRouTeam.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAcAAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAwAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-23T15:33:03.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GitHubProjectController.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Controllers\\GitHubProjectController.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Controllers\\GitHubProjectController.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Controllers\\GitHubProjectController.cs",
               "RelativeToolTip": "RestProjectRouTeam.API\\Controllers\\GitHubProjectController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAD8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T08:54:28.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "LoginUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Contracts\\LoginUserRequest.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Contracts\\LoginUserRequest.cs",
@@ -167,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "IUsersRepository.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Core\\Abstractions\\IUsersRepository.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Core\\Abstractions\\IUsersRepository.cs",
@@ -175,12 +277,11 @@
               "RelativeToolTip": "RestProjectRouTeam.Core\\Abstractions\\IUsersRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:02:45.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T19:02:45.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "RegisterUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\Contracts\\RegisterUserRequest.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\Contracts\\RegisterUserRequest.cs",
@@ -193,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "GitHubPage.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Core\\Models\\GitHubPage.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Core\\Models\\GitHubPage.cs",
@@ -201,25 +302,24 @@
               "RelativeToolTip": "RestProjectRouTeam.Core\\Models\\GitHubPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-20T08:30:07.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-20T08:30:07.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "GitHubService.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Application\\Services\\GitHubService.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.Application\\Services\\GitHubService.cs",
               "ToolTip": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.Application\\Services\\GitHubService.cs",
               "RelativeToolTip": "RestProjectRouTeam.Application\\Services\\GitHubService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADgvxcAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-20T08:11:31.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\appsettings.Development.json",
@@ -227,12 +327,11 @@
               "RelativeToolTip": "RestProjectRouTeam.API\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-18T14:59:56.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T14:59:56.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "RestProjectRouTeam.API.http",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\RestProjectRouTeam.API.http",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\RestProjectRouTeam.API.http",
@@ -240,12 +339,11 @@
               "RelativeToolTip": "RestProjectRouTeam.API\\RestProjectRouTeam.API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-18T14:58:05.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T14:58:05.576Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.API\\docker-compose.yml",
               "RelativeDocumentMoniker": "RestProjectRouTeam.API\\docker-compose.yml",
@@ -253,12 +351,11 @@
               "RelativeToolTip": "RestProjectRouTeam.API\\docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-09-19T14:29:39.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:29:39.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "GitHubPageRepository.cs",
               "DocumentMoniker": "C:\\Users\\Volkov\\source\\repos\\PRT\\backend\\ProjectRouTeam\\RestProjectRouTeam.DataAccess\\Repositories\\GitHubPageRepository.cs",
               "RelativeDocumentMoniker": "RestProjectRouTeam.DataAccess\\Repositories\\GitHubPageRepository.cs",
@@ -266,8 +363,7 @@
               "RelativeToolTip": "RestProjectRouTeam.DataAccess\\Repositories\\GitHubPageRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T15:02:30.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T15:02:30.185Z"
             }
           ]
         }
